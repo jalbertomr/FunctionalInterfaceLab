@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b8bcff4-7877-4e78-977f-f70c87485d70" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="24Z4aHcuqD6s9D4IA7onlo2dZDd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BiConsumerHighOrderFuntion">
+    <configuration name="BiConsumerHighOrderFuntion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bext.BiConsumerHighOrderFuntion" />
+      <module name="functionalInterfaceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryOperatorMaxByMinByTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bext.BinaryOperatorMaxByMinByTest" />
+      <module name="functionalInterfaceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryOperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bext.BinaryOperatorTest" />
+      <module name="functionalInterfaceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bext.ConsumerTest" />
+      <module name="functionalInterfaceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntBinaryOperatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bext.IntBinaryOperatorTest" />
+      <module name="functionalInterfaceLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bext.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BiConsumerHighOrderFuntion" />
+        <item itemvalue="Application.ConsumerTest" />
+        <item itemvalue="Application.BinaryOperatorMaxByMinByTest" />
+        <item itemvalue="Application.IntBinaryOperatorTest" />
+        <item itemvalue="Application.BinaryOperatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b8bcff4-7877-4e78-977f-f70c87485d70" name="Default Changelist" comment="" />
+      <created>1643824836048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643824836048</updated>
+      <workItem from="1643824839858" duration="6543000" />
+      <workItem from="1643837060950" duration="15377000" />
+      <workItem from="1643863784046" duration="257000" />
+      <workItem from="1643923469819" duration="152000" />
+      <workItem from="1643924956950" duration="176000" />
+      <workItem from="1643928478514" duration="73000" />
+      <workItem from="1643929402332" duration="90000" />
+      <workItem from="1644022002824" duration="5759000" />
+      <workItem from="1644264702127" duration="3307000" />
+      <workItem from="1644281329901" duration="63000" />
+      <workItem from="1644281741120" duration="2083000" />
+      <workItem from="1645762205776" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
